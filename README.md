@@ -1,3 +1,5 @@
+# https://netflixgpt-99d09.web.app
+
 # Netfix GPT
 
 - create react app
