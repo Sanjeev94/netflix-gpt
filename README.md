@@ -1,4 +1,4 @@
-[NetflixGPT](https://netflixgpt-99d09.web.app_
+[NetflixGPT](https://netflixgpt-99d09.web.app)
 
 # Netfix GPT
 
