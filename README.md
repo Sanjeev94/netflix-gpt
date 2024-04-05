@@ -29,6 +29,12 @@
 - update store with trailer video date
 - embeded the youtube video & make it auto play and mute
 - Tailwind classes to make main container look awesome
+- build secoundary container
+- build the movie list
+- build movie list
+- TMDB image CDN
+- made the brwse page look good with tailwindcss
+- usePopularMovie custom hook
 
 
 # Features
@@ -47,9 +53,16 @@
  - movie suggestion     
 
  # Browse page
- Main Container
+ # Main Container
    - Video Background
    - Video Title
   Secoundary container
     - Movielist *m
     - cards*n
+  
+  # sEcondary container
+   - Movielist - popular
+               - now playing
+               - trending
+               - horror
+               - *n
