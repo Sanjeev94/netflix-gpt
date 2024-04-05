@@ -1,4 +1,3 @@
-[NetflixGPT](https://netflixgpt-99d09.web.app)
 
 # Netfix GPT
 
@@ -75,7 +74,7 @@
     - Movielist *m
     - cards*n
   
-  # sEcondary container
+  # Secondary container
    - Movielist - popular
                - now playing
                - trending
